@@ -1,3 +1,5 @@
+/* Made by www.musavvir.info */
+
 @import url(https://fonts.googleapis.com/css?family=Montserrat|Poppins:700);
 
   /* all fonts */
@@ -14,11 +16,7 @@
     background-color: #232323 !important;
   }
 
-
-
-
-
-
+/* Made by www.musavvir.info */
 
 .dropdown.translate { padding:10px 0; }
 .dropdown.translate li { text-align: center; font-size: 20px; padding: 10px; cursor:pointer; }
@@ -33,3 +31,5 @@
   cursor:default;
   opacity:1;
 }
+
+/* Made by www.musavvir.info */

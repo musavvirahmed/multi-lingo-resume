@@ -1,3 +1,5 @@
+// Made by www.musavvir.info
+
 $(function(){
   $(".typed").typed({
     strings: ["digital product designer", "UX designer", "student of economics", "student of Mandarin", "Bangladeshi", "horrible swimmer"],
@@ -22,10 +24,7 @@ $(function(){
   });
 });
 
-
-
-
-
+// Made by www.musavvir.info
 
 $(function(){
   //set or get lang
@@ -53,3 +52,5 @@ $(function(){
     }
   });
 });
+
+// Made by www.musavvir.info
