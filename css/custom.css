@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Poppins:700);
+
+  /* all fonts */
+  .slides {
+    font-family: 'Montserrat', sans-serif !important;
+  }
+
+  /* just headers */
+  h1, h2, h3,
+  h4, h5, h6 {
+    font-family: 'Poppins', sans-serif !important;
+  }
+  .dark-gradient {
+    background-color: #232323 !important;
+  }
+
+
+
+
+
+
+
+.dropdown.translate { padding:10px 0; }
+.dropdown.translate li { text-align: center; font-size: 20px; padding: 10px; cursor:pointer; }
+.dropdown.translate li:hover { background:rgba(0, 0, 0, 0.05); }
+.dropdownTrigger[data-dropdown-id="language"] { color:#fff; text-align:center; font-size:16px; line-height:1.35; font-weight:600; text-transform:uppercase; }
+
+[data-current-lang="en"] .dropdown.translate li[data-switch-lang="en"],
+[data-current-lang="cn"] .dropdown.translate li[data-switch-lang="cn"],
+[data-current-lang="bn"] .dropdown.translate li[data-switch-lang="bn"] {
+  color:#EC2227;
+  background:transparent;
+  cursor:default;
+  opacity:1;
+}
